@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akashdeep714
-- 👀 I’m interested in Front end 
-- 🌱 I’m currently learning Web Dev
-- 💞️ I’m looking to collaborate on Software Based Projects
+- 👀 I’m interested in AI/ML 
+- 🌱 I’m currently learning ML/DL
+- 💞️ I’m looking to collaborate on ML Based Projects
 - 📫 How to reach me Akash.as79866@gmail.com
 
 <!---
