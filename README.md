@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in AI/ML<br>🌱 I’m currently learning ML/DL<br>💞️ I’m looking to collaborate on ML Based Projects
+👀 I’m interested in AI/ML<br>🌱 I’m currently learning Java Script<br>💞️ I’m looking to collaborate on ML Based Projects
 
 
 ## 🌐 Socials:
